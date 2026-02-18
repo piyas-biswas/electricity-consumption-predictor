@@ -1,4 +1,4 @@
-# Electricity Consumption Prediction Project
+# Electricity Consumption Predictor Project
 
 ## Project Overview
 
